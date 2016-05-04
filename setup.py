@@ -24,7 +24,7 @@ test_requirements = [
 
 setup(
     name='ilabs',
-    version='1.2.0',
+    version='1.2.1',
     description="python enteprise integration framework project. Powerfull class library based on EAI patterns and a modeling and simulation tool.",
     long_description=readme + '\n\n' + history,
     author="thanos vassilakis",

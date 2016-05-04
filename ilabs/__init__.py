@@ -17,4 +17,4 @@ $Revision: 1.2 $
 
 __author__ = 'thanos vassilakis'
 __email__ = 'thanosv@gmail.com'
-__version__ = '1.2.0'
+__version__ = '1.2.1'
