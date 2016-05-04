@@ -10,7 +10,7 @@ Tests for `ilabs` module.
 
 import unittest
 
-from ilabs import ilabs
+from ilabs import core
 
 
 class TestIlabs(unittest.TestCase):
