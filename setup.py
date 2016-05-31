@@ -15,7 +15,7 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    'gevent '
+    #'gevent '
 ]
 
 test_requirements = [
